@@ -1,12 +1,12 @@
 # botbinance_beta6
-converti ena app web que se puede usar en escritorio multiplataforma desarrollado en python con uso de djando y react js
-antes de empezar los paquetes de python necesarios son: 
-binance-connector==3.6.0
-Django==5.0.6
-django-cors-headers==4.3.1
-djangorestframework==3.15.1
-numpy==1.26.4
-pandas==2.2.2
+Realice una app web que se puede usar en escritorio de cualquier sistema operativo, totalmente desarrollado en python con uso de djando y react js.
+Antes de empezar los paquetes de python necesarios son: 
+* binance-connector==3.6.0,
+* Django==5.0.6,
+* django-cors-headers==4.3.1,
+* djangorestframework==3.15.1,
+* numpy==1.26.4,
+* pandas==2.2.2,
 1. puede usar directamente el comando pip install binance-connector Django django-cors-headers djangorestframework numpy pandas
 2. ahora posicionece en la carpeta backend y ejecture las migraciones con:
 2.1.  python manage.py makemigrations
